@@ -44,8 +44,8 @@ The application combines large language models (LLMs) with vector storage for ef
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo_url>
-cd project_root
+git clone https://github.com/AnuwatThisuka/Building-RAG-with-Langchain-and-Chroma
+cd Building-RAG-with-Langchain-and-Chroma
 ```
 
 ### 2. Set Up the Virtual Environment and Install Dependencies
